@@ -1,3 +1,8 @@
+#pip install opencv-python numpy matplotlib
+#pip install opencv-python numpy matplotlib ultralytics 
+(if ultraytics needed)
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
